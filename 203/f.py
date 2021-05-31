@@ -5,7 +5,6 @@ A.sort()
 inf = 10**9+1
 # 10**9 < 16**9 = 2**36
 dp = [[inf]*38 for _ in range(N+3)]
-# dp["草の数"]["高橋"] = "青木"
 
 def upper_bound(A, target):
     left = -1
