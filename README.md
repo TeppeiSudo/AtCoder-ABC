@@ -6,7 +6,7 @@ AtCoder Beginner ContestのAC解を残して行きます。
 空欄はこのリポジトリにAC解が無いことを意味します。
 
 | contest |  A  |  B  |  C  |  D  |  E  |  F  |
-| :------ | :-: | :-: | :-: | :-: | :-: | :-: |
+| :-----: | :-: | :-: | :-: | :-: | :-: | :-: |
 | [203](/203) | Chinchirorin | AtCoder Condominium | Friends and Travel costs | Pond | White Pawn | Weed |
 | [201](/201) | | | Serect Number | | | |
 | [199](/199) | | | IPFL | | | |
