@@ -9,7 +9,7 @@ AtCoder Beginner ContestのAC解を残して行きます。
 | :-----: | :-: | :-: | :-: | :-: | :-: | :-: |
 | [204](/204) | Rock-paper-scissors | Nuts | Tour | Cooking | Rush Hour 2 | |
 | [203](/203) | Chinchirorin | AtCoder Condominium | Friends and Travel costs | Pond | White Pawn | Weed |
-| [202](/202) | Three Dice | 180&deg;| Made Up | | | |
+| [202](/202) | Three Dice | 180&deg;| Made Up | aab aba baa | | |
 | [201](/201) | Tiny Arithmetic Sequence | Do you know the second highest mountain? | Serect Number | Game in Momotetsu World | Xor Distances | |
 | [199](/199) | | | IPFL | | | |
 | [198](/198) | | |  Compass Walking | | | |
