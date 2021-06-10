@@ -18,7 +18,7 @@ AtCoder Beginner ContestのAC解を残して行きます。
 | [191](/191) | Vanishing Pitch | Remove It | | | | |
 | [190](/190) | | | Bowls and Dishes | | | |
 | [189](/189) | Slot | Alcoholic | Mandarin Orange | Logical Expression | | |
-| [187](/187) | | | | Choose Me | | |
+| [187](/187) | Large Difits | Gentle Pairs | 1-SAT | Choose Me | | |
 | [186](/186) | Brick | Blocks on Grid | Unlucky 7 | Sum of difference | Throne | |
 | [179](/179) | Plural Form | Go to Jail | AxB+C | Leaping Tak | Sequence Sum | |
 | [178](/178) | Not | Product Max | Ubiquity | Redistribution | Dist Max | |
