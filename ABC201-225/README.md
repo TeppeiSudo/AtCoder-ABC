@@ -3,6 +3,7 @@
 
 | contest |  A  |  B  |  C  |  D  |  E  |  F  |
 | :-----: | :-: | :-: | :-: | :-: | :-: | :-: |
+| [205](./205) | kcal | Permutation Check | POW |  |  | |
 | [204](./204) | Rock-paper-scissors | Nuts | Tour | Cooking | Rush Hour 2 | |
 | [203](./203) | Chinchirorin | AtCoder Condominium | Friends and Travel costs | Pond | White Pawn | Weed |
 | [202](./202) | Three Dice | 180&deg;| Made Up | aab aba baa | | |
