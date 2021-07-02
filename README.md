@@ -6,6 +6,7 @@ AtCoder Beginner ContestのAC解を残して行きます。
 
 | contest |  A  |  B  |  C  |  D  |  E  |  F  |
 | :-----: | :-: | :-: | :-: | :-: | :-: | :-: |
+| [205](/ABC201-225/205) | kcal | Permutation Check | POW |  |  | |
 | [204](/ABC201-225/204) | Rock-paper-scissors | Nuts | Tour | Cooking | Rush Hour 2 | |
 | [203](/ABC201-225/203) | Chinchirorin | AtCoder Condominium | Friends and Travel costs | Pond | White Pawn | Weed |
 | [202](/ABC201-225/202) | Three Dice | 180&deg;| Made Up | aab aba baa | | |
@@ -35,5 +36,5 @@ AtCoder Beginner ContestのAC解を残して行きます。
 | [178](/ABC176-200/178) | Not | Product Max | Ubiquity | Redistribution | Dist Max | |
 | [177](/ABC176-200/177) | | | | | | |
 | [176](/ABC176-200/176) | | | | | | |
-| [](/ABC151-175/175) | | | | | | |
-| [](/ABC151-175/) | | | | | | |
+| [169](/ABC151-175/169) |  |  |  | Div Game |  | |
+| [146](/ABC126-150/146) |  |  | Buy an Integer |  |  | |
