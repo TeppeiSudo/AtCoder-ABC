@@ -38,3 +38,4 @@ AtCoder Beginner ContestのAC解を残して行きます。
 | [176](/ABC176-200/176) | | | | | | |
 | [169](/ABC151-175/169) |  |  |  | Div Game |  | |
 | [146](/ABC126-150/146) |  |  | Buy an Integer |  |  | |
+| [56](/ABC051-075/56) |  |  | Go Home |  |  | |
