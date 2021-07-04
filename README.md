@@ -21,7 +21,7 @@ AtCoder Beginner ContestのAC解を残して行きます。
 | [193](/ABC176-200/193) | | | | | | |
 | [192](/ABC176-200/192) | | | | | | |
 | [191](/ABC176-200/191) | Vanishing Pitch | Remove It | | | | |
-| [190](/ABC176-200/190) | | | Bowls and Dishes | | | |
+| [190](/ABC176-200/190) | | | Bowls and Dishes | Staircase Sequences | | |
 | [189](/ABC176-200/189) | Slot | Alcoholic | Mandarin Orange | Logical Expression | | |
 | [188](/ABC176-200/188) | | | | | | |
 | [187](/ABC176-200/187) | Large Difits | Gentle Pairs | 1-SAT | Choose Me | | |

@@ -13,7 +13,7 @@
 | [193](./193) | | | | | | |
 | [192](./192) | | | | | | |
 | [191](./191) | Vanishing Pitch | Remove It | | | | |
-| [190](./190) | | | Bowls and Dishes | | | |
+| [190](./190) | | | Bowls and Dishes | Staircase Sequences | | |
 | [189](./189) | Slot | Alcoholic | Mandarin Orange | Logical Expression | | |
 | [188](./188) | | | | | | |
 | [187](./187) | Large Difits | Gentle Pairs | 1-SAT | Choose Me | | |
