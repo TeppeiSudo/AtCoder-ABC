@@ -1,4 +1,4 @@
-from heapq import heappop, heappush, nsmallest
+from heapq import heappop, heappush
 from math import sqrt
 
 N, M = map(int, input().split())
