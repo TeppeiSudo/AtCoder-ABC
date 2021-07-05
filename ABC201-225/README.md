@@ -3,6 +3,8 @@
 
 | contest |  A  |  B  |  C  |  D  |  E  |  F  |
 | :-----: | :-: | :-: | :-: | :-: | :-: | :-: |
+| [207](./207) | Rolling Dice | Factorial Yen Coin | Fair Candy Distribution |  |  | |
+| [206](./206) |  |  |  |  |  | |
 | [205](./205) | kcal | Permutation Check | POW |  |  | |
 | [204](./204) | Rock-paper-scissors | Nuts | Tour | Cooking | Rush Hour 2 | |
 | [203](./203) | Chinchirorin | AtCoder Condominium | Friends and Travel costs | Pond | White Pawn | Weed |

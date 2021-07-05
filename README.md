@@ -6,6 +6,8 @@ AtCoder Beginner ContestのAC解を残して行きます。
 
 | contest |  A  |  B  |  C  |  D  |  E  |  F  |
 | :-----: | :-: | :-: | :-: | :-: | :-: | :-: |
+| [207](./207) | Rolling Dice | Factorial Yen Coin | Fair Candy Distribution |  |  | |
+| [206](./206) |  |  |  |  |  | |
 | [205](/ABC201-225/205) | kcal | Permutation Check | POW |  |  | |
 | [204](/ABC201-225/204) | Rock-paper-scissors | Nuts | Tour | Cooking | Rush Hour 2 | |
 | [203](/ABC201-225/203) | Chinchirorin | AtCoder Condominium | Friends and Travel costs | Pond | White Pawn | Weed |
