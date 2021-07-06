@@ -3,8 +3,9 @@
 
 | contest |  A  |  B  |  C  |  D  |  E  |  F  |
 | :-----: | :-: | :-: | :-: | :-: | :-: | :-: |
-| [207](./207) | Rolling Dice | Factorial Yen Coin | Fair Candy Distribution |  |  | |
-| [206](./206) |  |  |  |  |  | |
+| [208](./208) | Rolling Dice | Factorial Yen Coin | Fair Candy Distribution |  |  | |
+| [207](./207) | Repression | Hydrate | Many Segments |  |  | |
+| [206](./206) | Maxi-Buying | Savings | Swappable |  |  | |
 | [205](./205) | kcal | Permutation Check | POW |  |  | |
 | [204](./204) | Rock-paper-scissors | Nuts | Tour | Cooking | Rush Hour 2 | |
 | [203](./203) | Chinchirorin | AtCoder Condominium | Friends and Travel costs | Pond | White Pawn | Weed |
