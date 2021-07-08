@@ -6,9 +6,9 @@ AtCoder Beginner ContestのAC解を残して行きます。
 
 | contest |  A  |  B  |  C  |  D  |  E  |  F  |
 | :-----: | :-: | :-: | :-: | :-: | :-: | :-: |
-| [208](./208) | Rolling Dice | Factorial Yen Coin | Fair Candy Distribution |  |  | |
-| [207](./207) | Repression | Hydrate | Many Segments |  |  | |
-| [206](./206) | Maxi-Buying | Savings | Swappable |  |  | |
+| [208](/ABC201-225/208) | Rolling Dice | Factorial Yen Coin | Fair Candy Distribution |  |  | |
+| [207](/ABC201-225/207) | Repression | Hydrate | Many Segments |  |  | |
+| [206](/ABC201-225/206) | Maxi-Buying | Savings | Swappable |  |  | |
 | [205](/ABC201-225/205) | kcal | Permutation Check | POW |  |  | |
 | [204](/ABC201-225/204) | Rock-paper-scissors | Nuts | Tour | Cooking | Rush Hour 2 | |
 | [203](/ABC201-225/203) | Chinchirorin | AtCoder Condominium | Friends and Travel costs | Pond | White Pawn | Weed |
